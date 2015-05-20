@@ -1,0 +1,28 @@
+A:link    {color: #FFFFFF; text-decoration: none;}
+A:visited {color: #FFFFFF; text-decoration: none;}
+A:active  {color: #FFFFFF; text-decoration: none;}
+A:hover   {color: #FFFFFF; text-decoration: none;}
+
+td, th, p, ul, ol, li, sub, sup, h1, h2, h3 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #000;
+    font-size: 40px;
+}
+
+table {
+    border-spacing: 0px 10px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+h3 {
+    font-size: 50px;
+    color: #FFFFFF;
+}

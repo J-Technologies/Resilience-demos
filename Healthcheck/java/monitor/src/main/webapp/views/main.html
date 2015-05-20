@@ -1,0 +1,17 @@
+
+<table width="100%">
+    <tr height="90px">
+        <th width="10px">&nbsp;</td>
+        <th width="300px" align="left">server:</td>
+        <th width="10px">&nbsp;</td>
+        <th align="left">status:</td>
+    </tr>
+    <tr ng-repeat="server in servers" bgcolor="{{ server.color }}" height="70px">
+        <td width="10px">&nbsp;</td>
+        <td width="300px" align="left">{{ server.server }}</td>
+        <td width="10px">&nbsp;</td>
+        <td align="left">{{ server.status }}</td>
+        <td width="10px">&nbsp;</td>
+    </tr>
+</table>
+
