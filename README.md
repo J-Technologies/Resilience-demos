@@ -1,9 +1,6 @@
 # Resilience-demos
-Resilience examples
 
-All examples work on docker.
+### All examples work on docker.
 
-
-Run Circuitbreaker/docker/build.sh to install the circuitbreaker example.
-
-Run Healthcheck/docker/build.sh to install the healthcheck example.
+* Run Circuitbreaker/run_circuitbreaker.sh to install the circuitbreaker example.
+* Run Healthcheck/docker/build.sh to install the healthcheck example.
