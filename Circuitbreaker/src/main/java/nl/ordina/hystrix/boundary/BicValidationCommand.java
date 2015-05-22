@@ -1,4 +1,4 @@
-package nl.ordina.hystrix.bic;
+package nl.ordina.hystrix.boundary;
 
 import com.netflix.hystrix.HystrixCommand;
 import com.netflix.hystrix.HystrixCommandGroupKey;
